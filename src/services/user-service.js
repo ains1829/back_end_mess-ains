@@ -1,4 +1,4 @@
-const pool = require("../config/db-config");
+const pool = require("../config/db/db-config");
 
 /**
  * Récupérer tous les utilisateurs depuis la base de données.

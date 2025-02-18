@@ -4,7 +4,7 @@ const { getAllUser } = require("../services/user-service");
 const router = express.Router();
 
 router.get("/users", middleware_auth, (req, res) => {
-  res.send("salut toi");
+  res.send("salut toi andy kely");
 });
 
 router.get("/all_user", async (req, res) => {
