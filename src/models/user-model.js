@@ -6,4 +6,6 @@
  * @property {string} first_name - Email de l'utilisateur
  * @property {Date} birthday
  * @property {text} photo_user
+ * @property {string} email
+ * @property {string} password
  */
